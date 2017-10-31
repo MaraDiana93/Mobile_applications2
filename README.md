@@ -25,3 +25,18 @@ The application will manage my daily activities.
 - modify an activity
 - delete activity
 - get chats
+
+
+Rights for user type:
+
+power user: see the activities of all users
+            edit
+            detele
+            display charts of the other users
+            
+user: display own activities
+      edit
+      create
+      detele
+      display chart only for the current user
+      
